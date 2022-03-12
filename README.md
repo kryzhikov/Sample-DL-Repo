@@ -1,2 +1,2 @@
-# Sample-DL-Repo
-## Nikitin Maxim
+#HW1
+**В папке results разные результаты моделей**
