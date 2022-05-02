@@ -10,3 +10,5 @@
 ## видео занятия 
 (вам надо только про nst, deep dream это broke)
 https://www.youtube.com/watch?v=WYV10Y889Yo
+
+Дз выполнил Алиев Мишан.
