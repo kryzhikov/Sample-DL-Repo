@@ -1,3 +1,9 @@
+# monet-ipynb.ipynb - Ноутбук с решением
+
+# Ссылка на ноутбук на каггле: https://www.kaggle.com/code/egoxxx/monet-ipynb/notebook
+
+# Public Score: 60.34020
+
 # Генеративные модели 
 
 VAE/GAN/StyleGAN 
