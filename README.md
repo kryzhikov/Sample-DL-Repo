@@ -1,1 +1,3 @@
-# Sample-DL-Repo
+# Sample-DL-Repo  
+
+Алиев Мишан
