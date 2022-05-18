@@ -1,1 +1,2 @@
-# Sample-DL-Repo
+# DL-HWs-Repo
+Айзат Бадриев
