@@ -1,1 +1,3 @@
-# Sample-DL-Repo
+ФИО: Дворников Алексей Дмитриевич
+
+Kaggle: woodkeeper
